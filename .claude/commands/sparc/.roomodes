@@ -1,0 +1,107 @@
+{
+  "version": "2.0.0",
+  "customModes": [
+    {
+      "name": "orchestrator",
+      "displayName": "Orchestrator",
+      "description": "Multi-agent task orchestration",
+      "file": "orchestrator.md"
+    },
+    {
+      "name": "coder",
+      "displayName": "Coder",
+      "description": "Autonomous code generation",
+      "file": "coder.md"
+    },
+    {
+      "name": "researcher",
+      "displayName": "Researcher",
+      "description": "Deep research and analysis",
+      "file": "researcher.md"
+    },
+    {
+      "name": "architect",
+      "displayName": "Architect",
+      "description": "System design and planning",
+      "file": "architect.md"
+    },
+    {
+      "name": "analyzer",
+      "displayName": "Analyzer",
+      "description": "Code and data analysis",
+      "file": "analyzer.md"
+    },
+    {
+      "name": "tester",
+      "displayName": "Tester",
+      "description": "Automated testing",
+      "file": "tester.md"
+    },
+    {
+      "name": "debugger",
+      "displayName": "Debugger",
+      "description": "Error detection and fixing",
+      "file": "debugger.md"
+    },
+    {
+      "name": "optimizer",
+      "displayName": "Optimizer",
+      "description": "Performance optimization",
+      "file": "optimizer.md"
+    },
+    {
+      "name": "documenter",
+      "displayName": "Documenter",
+      "description": "Documentation generation",
+      "file": "documenter.md"
+    },
+    {
+      "name": "reviewer",
+      "displayName": "Reviewer",
+      "description": "Code review and quality assurance",
+      "file": "reviewer.md"
+    },
+    {
+      "name": "designer",
+      "displayName": "Designer",
+      "description": "UI/UX design assistance",
+      "file": "designer.md"
+    },
+    {
+      "name": "innovator",
+      "displayName": "Innovator",
+      "description": "Creative problem solving",
+      "file": "innovator.md"
+    },
+    {
+      "name": "memory-manager",
+      "displayName": "Memory Manager",
+      "description": "Persistent context management",
+      "file": "memory-manager.md"
+    },
+    {
+      "name": "swarm-coordinator",
+      "displayName": "Swarm Coordinator",
+      "description": "Multi-agent swarm coordination",
+      "file": "swarm-coordinator.md"
+    },
+    {
+      "name": "workflow-manager",
+      "displayName": "Workflow Manager",
+      "description": "Workflow automation and optimization",
+      "file": "workflow-manager.md"
+    },
+    {
+      "name": "batch-executor",
+      "displayName": "Batch Executor",
+      "description": "Parallel task execution",
+      "file": "batch-executor.md"
+    },
+    {
+      "name": "tdd",
+      "displayName": "TDD",
+      "description": "Test-Driven Development workflow",
+      "file": "tdd.md"
+    }
+  ]
+}
